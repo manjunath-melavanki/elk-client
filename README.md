@@ -1,10 +1,10 @@
 **Common Java Client for Elasticsearch/OpenSearch (elk-client)**
 
-Please refer detail documentation here : https://neustarjira.atlassian.net/wiki/spaces/IPI/pages/1611104278/Common+Java+Client+for+Elasticsearch+OpenSearch+elk-client
+Please refer detail documentation here : elk-doc.docx
 
 **Maven Dependency :**
 <dependency>
-    <groupId>com.tu</groupId>
+    <groupId>com</groupId>
     <artifactId>elk-client</artifactId>
     <version>1.0.0</version>
 </dependency>

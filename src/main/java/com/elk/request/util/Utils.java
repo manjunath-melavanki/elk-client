@@ -1,4 +1,4 @@
-package com.tu.elk.request.util;
+package com.elk.request.util;
 
 import static java.lang.String.format;
 

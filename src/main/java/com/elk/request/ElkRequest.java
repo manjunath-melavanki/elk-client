@@ -1,6 +1,6 @@
-package com.tu.elk.request;
+package com.elk.request;
 
-import com.tu.elk.request.service.ElkRequestBuilderImpl;
+import com.elk.request.service.ElkRequestBuilderImpl;
 import org.apache.http.client.config.RequestConfig;
 
 import javax.net.ssl.SSLContext;

@@ -1,4 +1,4 @@
-package com.tu.elk.dto;
+package com.elk.dto;
 
 /**
  * ELK Response

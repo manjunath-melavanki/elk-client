@@ -1,8 +1,8 @@
-package com.tu.elk.client;
+package com.elk.client;
 
+import com.elk.dto.ElkResponse;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.tu.elk.dto.ElkResponse;
-import com.tu.elk.request.ElkRequest;
+import com.elk.request.ElkRequest;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpHost;

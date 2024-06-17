@@ -1,6 +1,6 @@
-package com.tu.elk.request.service;
+package com.elk.request.service;
 
-import com.tu.elk.request.ElkRequest;
+import com.elk.request.ElkRequest;
 import org.apache.http.client.config.RequestConfig;
 
 import javax.net.ssl.SSLContext;
@@ -9,7 +9,7 @@ import java.util.LinkedHashMap;
 import java.util.Locale;
 import java.util.Map;
 
-import static com.tu.elk.request.util.Utils.newIAE;
+import static com.elk.request.util.Utils.newIAE;
 import static java.util.Objects.requireNonNull;
 
 /**

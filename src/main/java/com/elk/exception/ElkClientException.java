@@ -1,4 +1,4 @@
-package com.tu.elk.exception;
+package com.elk.exception;
 /**
  * Exception class
  * @author  Manjunath Melavanki
